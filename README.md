@@ -10,4 +10,4 @@ Tech Used:
 Created a mini ecommerce platform listing products.
 
 
-LIVE DEMO : 
+LIVE DEMO : https://anjali-kalam08.github.io/FUTURE_FS_02/
