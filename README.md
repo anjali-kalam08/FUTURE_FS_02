@@ -1,4 +1,4 @@
-TASK 1 - MINI ECOMMERCE WEBSITE
+TASK 2 - MINI ECOMMERCE WEBSITE
 
 This project is created as a part of Full Stack Web Development Internship at Future Interns.
 
